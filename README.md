@@ -1,5 +1,7 @@
-# Shutdowner
+# About Shutdowner
 An easy to use shutdown app for Windows
+![Shutdowner template](https://github.com/AurasV/Shutdowner/assets/80701407/81cd2277-a79c-4983-b5a2-9e3745daccd9)
+
 ## Why?
 Needed an easier app to do scheduled shutdowns / restarts
 ## Usage:
